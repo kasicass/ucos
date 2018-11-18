@@ -1,1 +1,1 @@
-"D:\Program Files (x86)\DOSBox-0.74-2\DOSBox.exe" -conf dosbox-0.74-2.conf
+start DOSBox-0.74-2\DOSBox.exe -conf dosbox-0.74-2.conf
