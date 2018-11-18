@@ -1,0 +1,15 @@
+Begin3
+Title:          Open Watcom C Compiler
+Version:        1.9a
+Entered-date:   2014-07-27
+Modified-date:  2017-07-06.0
+Description:    Open Watcom C/C++ compiler
+Keywords:       watcom, c, compiler
+Author:
+Maintained-by:
+Primary-site:   http://www.openwatcom.org
+Alternate-site:
+Original-site:  http://www.openwatcom.org
+Platforms:      DOS
+Copying-policy: Sybase Open Watcom Public License, Version 1.0
+End
