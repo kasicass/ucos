@@ -5,3 +5,6 @@ stdout.txt
 # esbb
 esbb/SOFTWARE
 
+# binary
+*.exe
+*.o
